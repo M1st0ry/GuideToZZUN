@@ -14,6 +14,7 @@
 * [坚决抵制PUA](chapter1-chu-lai-zha-dao/jian-jue-di-zhi-pua.md)
 * [你值多少钱](chapter1-chu-lai-zha-dao/ni-zhi-duo-shao-qian.md)
 * [学校制度](chapter1-chu-lai-zha-dao/xue-xiao-zhi-du.md)
+* [如何学习，以及自学](chapter1-chu-lai-zha-dao/ru-he-xue-xi-yi-ji-zi-xue.md)
 
 ## Chapter2-学习与专业
 
