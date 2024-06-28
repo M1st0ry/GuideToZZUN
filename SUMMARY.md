@@ -10,10 +10,10 @@
 * [欢迎来到北区，新人](chapter1-chu-lai-zha-dao/huan-ying-lai-dao-bei-qu-xin-ren.md)
 * [第一件事](chapter1-chu-lai-zha-dao/di-yi-jian-shi.md)
 * [信息素养](chapter1-chu-lai-zha-dao/xin-xi-su-yang.md)
+* [如何学习，以及自学](chapter1-chu-lai-zha-dao/ru-he-xue-xi-yi-ji-zi-xue.md)
 * [坚决抵制PUA](chapter1-chu-lai-zha-dao/jian-jue-di-zhi-pua.md)
 * [你值多少钱](chapter1-chu-lai-zha-dao/ni-zhi-duo-shao-qian.md)
 * [学校制度](chapter1-chu-lai-zha-dao/xue-xiao-zhi-du.md)
-* [如何学习，以及自学](chapter1-chu-lai-zha-dao/ru-he-xue-xi-yi-ji-zi-xue.md)
 
 ## Chapter2-学习与专业
 
