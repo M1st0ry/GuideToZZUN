@@ -9,8 +9,7 @@
 
 * [欢迎来到北区，新人](chapter1-chu-lai-zha-dao/huan-ying-lai-dao-bei-qu-xin-ren.md)
 * [第一件事](chapter1-chu-lai-zha-dao/di-yi-jian-shi.md)
-* [提问的智慧](chapter1-chu-lai-zha-dao/ti-wen-de-zhi-hui.md)
-* [信息搜集](chapter1-chu-lai-zha-dao/xin-xi-sou-ji.md)
+* [信息素养](chapter1-chu-lai-zha-dao/xin-xi-su-yang.md)
 * [坚决抵制PUA](chapter1-chu-lai-zha-dao/jian-jue-di-zhi-pua.md)
 * [你值多少钱](chapter1-chu-lai-zha-dao/ni-zhi-duo-shao-qian.md)
 * [学校制度](chapter1-chu-lai-zha-dao/xue-xiao-zhi-du.md)
@@ -24,7 +23,7 @@
   * [密码科学与技术](chapter2-xue-xi-yu-zhuan-ye/zhuan-ye-zong-lan-ru-he-xue-xi/mi-ma-ke-xue-yu-ji-shu.md)
 * [绩点与综测](chapter2-xue-xi-yu-zhuan-ye/ji-dian-yu-zong-ce.md)
 * [有关考试/作业那些事](chapter2-xue-xi-yu-zhuan-ye/you-guan-kao-shi-zuo-ye-na-xie-shi/README.md)
-  * [突击备考](chapter2-xue-xi-yu-zhuan-ye/you-guan-kao-shi-zuo-ye-na-xie-shi/tu-ji-bei-kao.md)
+  * [正常备考](chapter2-xue-xi-yu-zhuan-ye/you-guan-kao-shi-zuo-ye-na-xie-shi/zheng-chang-bei-kao.md)
   * [邪道速通](chapter2-xue-xi-yu-zhuan-ye/you-guan-kao-shi-zuo-ye-na-xie-shi/xie-dao-su-tong.md)
 * [转专业](chapter2-xue-xi-yu-zhuan-ye/zhuan-zhuan-ye.md)
 * [选课](chapter2-xue-xi-yu-zhuan-ye/xuan-ke.md)

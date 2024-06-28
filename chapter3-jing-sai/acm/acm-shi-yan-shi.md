@@ -14,7 +14,7 @@ description: A friendly big family
 
 > _如果你不知道怎么提问，看看这个吧_
 >
-> [ti-wen-de-zhi-hui.md](../../chapter1-chu-lai-zha-dao/ti-wen-de-zhi-hui.md "mention")&#x20;
+> [Broken link](broken-reference "mention")&#x20;
 
 ## 3. 进实验室可以得到什么
 
