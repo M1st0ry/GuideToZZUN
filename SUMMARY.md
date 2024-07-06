@@ -2,7 +2,8 @@
 
 ## Chapter0-序章
 
-* [声明](README.md)
+* [快速跳转](README.md)
+* [声明](<README (1).md>)
 * [序言](chapter0-xu-zhang/xu-yan.md)
 
 ## Chapter1-初来乍到
