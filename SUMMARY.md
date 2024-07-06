@@ -38,7 +38,8 @@
 
 ## Chapter3-竞赛
 
-* [大学生创新创业基地（北三）](chapter3-jing-sai/da-xue-sheng-chuang-xin-chuang-ye-ji-di-bei-san.md)
+* [竞赛总览](chapter3-jing-sai/jing-sai-zong-lan.md)
+* [大学生创业创新中心（北三）](chapter3-jing-sai/da-xue-sheng-chuang-ye-chuang-xin-zhong-xin-bei-san.md)
 * [ACM💭💡🎈](chapter3-jing-sai/acm/README.md)
   * [介绍](chapter3-jing-sai/acm/jie-shao.md)
   * [ACM实验室](chapter3-jing-sai/acm/acm-shi-yan-shi.md)
