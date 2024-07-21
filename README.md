@@ -4,7 +4,7 @@ description: 项目建设中的临时page，建设完成后将被删除
 
 # 快速跳转
 
-
+对本指南有任何意见与想法均可以提出QQ-753811104 Github-[https://github.com/M1st0ry/GuideToZZUN](https://github.com/M1st0ry/GuideToZZUN)
 
 **基础知识（对没接触过计算机&很少碰计算机的重要）：**
 
