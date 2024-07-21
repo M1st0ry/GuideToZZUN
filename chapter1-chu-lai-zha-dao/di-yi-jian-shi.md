@@ -26,3 +26,15 @@ description: 新手村的第一个任务
 
 计算机导论这门课不仅会教基本的知识，告诉你专业的一些前景，还会教你办公软件的使用。
 
+**在这之后：**
+
+大一上会学C语言，但是更建议提前学一下python基础，python整体较C更简单，容易理解，适合新手。
+
+接下来可以了解两大学科竞赛：
+
+[acm](../chapter3-jing-sai/acm/ "mention")
+
+[ctf](../chapter3-jing-sai/ctf/ "mention")
+
+
+
