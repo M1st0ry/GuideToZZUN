@@ -4,14 +4,6 @@ description: 项目建设中的临时page，建设完成后将被删除
 
 # 快速跳转
 
-**鸡汤（不看也行）：**
-
-[huan-ying-lai-dao-bei-qu-xin-ren.md](chapter1-chu-lai-zha-dao/huan-ying-lai-dao-bei-qu-xin-ren.md "mention")
-
-[jian-jue-di-zhi-pua.md](chapter1-chu-lai-zha-dao/jian-jue-di-zhi-pua.md "mention")
-
-[ni-zhi-duo-shao-qian.md](chapter1-chu-lai-zha-dao/ni-zhi-duo-shao-qian.md "mention")
-
 
 
 **基础知识（对没接触过计算机&很少碰计算机的重要）：**
